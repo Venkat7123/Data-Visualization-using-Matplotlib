@@ -207,4 +207,4 @@ plt.show()
 ```
 ![alt text](<Output Screenshots/Screenshot 2025-04-26 214039.png>)
 # Result:
- Include your result here
+Data visualization through Matplotlib was completed and the results have been successfully verified.
